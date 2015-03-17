@@ -1,0 +1,6 @@
+
+Ilosc zmian stron w FIFO 14
+
+Ilosc zmian w Optymalnym 12
+
+Ilosc wyrzuconych stron w MFU 13
